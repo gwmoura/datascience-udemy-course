@@ -1,0 +1,4 @@
+scikit-learn[alldeps]
+xlrd
+statsmodels
+pydot2
